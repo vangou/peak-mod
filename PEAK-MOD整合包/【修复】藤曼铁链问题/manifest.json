@@ -1,0 +1,9 @@
+{
+    "name": "PEAK_VineFix",
+    "version_number": "1.0.0",
+    "description": "Fixes glitched ruberbanning when using vines and chains",
+    "website_url": "",
+    "dependencies": [
+        "BepInEx-BepInExPack_PEAK-5.4.2403"
+    ]
+}

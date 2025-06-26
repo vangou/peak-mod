@@ -1,0 +1,9 @@
+{
+    "name": "ItemMultiplier",
+    "version_number": "1.0.0",
+    "website_url": "https://discord.gg/4dDSBHgZFg",
+    "description": "Configurable item spawn multiplier for PEAK. Boost luggages loot by 2x, 5x, 10x or more! Focus on luggage with optional support for other spawners.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

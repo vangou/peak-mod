@@ -1,0 +1,9 @@
+{
+"name": "Eternal_Friendly_Campfire",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/llanx/Eternal-Friendly-Campfire",
+  "description": "Campfires never go out, and you won't get hungry near them. Wait for your friends in peace at the top.",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.2403"
+  ]
+}

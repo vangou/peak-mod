@@ -1,0 +1,9 @@
+{
+  "name": "ItemScroller",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/MasterAli2/ItemScroller",
+  "description": "You can now switch items using the scroll wheel",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.2403"
+  ]
+}

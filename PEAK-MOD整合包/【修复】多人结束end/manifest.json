@@ -1,0 +1,9 @@
+{
+  "name": "PEAK_FixUnlimitedEndScreen",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/RagingDemoMann/PEAK_FixUnlimitedEndScreen",                    
+  "description": "Fixes the Unlimited Player End screen",
+	"dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}

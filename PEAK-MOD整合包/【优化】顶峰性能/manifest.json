@@ -1,0 +1,9 @@
+﻿{
+  "name": "FireFixes",
+  "description": "This mod will fix your lag issues when encountering Vulcano World",
+  "version_number": "1.0.1",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.2403"
+  ],
+  "website_url": ""
+}

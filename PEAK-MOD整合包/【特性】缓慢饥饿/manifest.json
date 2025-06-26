@@ -1,0 +1,11 @@
+{
+  "namespace": "xammen",
+  "name": "SlowHunger",
+  "description": "Reduces hunger decay rate.",
+  "version_number": "0.1.0",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.2403"
+  ],
+  "website_url": "https://discord.gg/dwvxmFmFHT",
+  "FullName": "xammen-SlowHunger"
+}

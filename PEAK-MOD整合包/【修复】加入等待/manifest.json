@@ -1,0 +1,9 @@
+{
+    "name": "PeakLobbyJoinFix",
+    "version_number": "1.0.0",
+    "website_url": "https://discord.gg/4dDSBHgZFg",
+    "description": "Fixes Steam lobby join timing issues in PEAK. Prevents 'Photon Room not found' errors when joining lobbies via steam://joinlobby links by waiting for Photon connection before attempting to join.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

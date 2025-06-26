@@ -1,0 +1,9 @@
+{
+	"name": "EasyBackpack",
+	"version_number": "1.1.0",
+	"description": "Lets you access your backpack without having to drop it!",
+	"website_url": "",
+	"dependencies": [
+		"BepInEx-BepInExPack_PEAK-5.4.2403"
+	]
+}

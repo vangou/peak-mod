@@ -1,0 +1,9 @@
+{
+    "name": "PEAK_Save_Manager",
+    "description": "Save and Load your PEAK runs, with friends!",
+    "version_number": "1.0.0",
+    "dependencies": [
+        "BepInEx-BepInExPack_PEAK-5.4.2403"
+    ],
+    "website_url": ""
+}

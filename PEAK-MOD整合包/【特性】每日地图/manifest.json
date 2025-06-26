@@ -1,0 +1,9 @@
+{
+    "name": "MorePeak",
+    "version_number": "1.8.1",
+    "website_url": "https://github.com/SeanMcKeen/MorePeak",
+    "description": "Skip the wait for the daily map refresh! Selects a random map when you start a game! (Configurable)",
+    "dependencies": [
+        "BepInEx-BepInExPack_PEAK-5.4.2403"
+    ]
+}

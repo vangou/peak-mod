@@ -1,0 +1,9 @@
+﻿{
+  "name": "InfiniteStamina",
+  "description": "The mod gives you infinite stamina — you’ll never get tired again!",
+  "version_number": "1.0.2",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "website_url": ""
+}

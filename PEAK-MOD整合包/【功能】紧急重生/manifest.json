@@ -1,0 +1,11 @@
+{
+    "name": "ReviveHotkey",
+    "version_number": "1.0.5",
+    "website_url": "https://thunderstore.io/",
+    "description": "Adds a customizable hotkey that lets you revive yourself when knocked unconscious, with optional limited revives.",
+    "author_name": "Smokes",
+    "package_name": "Smokes-ReviveHotkey",
+    "dependencies": [
+        "BepInEx-BepInExPack_PEAK-5.4.2403"
+    ]
+}

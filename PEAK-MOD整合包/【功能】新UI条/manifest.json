@@ -1,0 +1,11 @@
+{
+  "namespace": "StaminaStats",
+  "name": "StaminaStats",
+  "description": "A simple mod for PEAK that displays numbers or percentages for your stamina and status effects.",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.2403"
+  ],
+  "website_url": "",
+  "FullName": "StaminaStats-StaminaStats"
+}
